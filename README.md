@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kzhang77@jh.edu**
 
-- 📄 Know about my experiences [https://kevinzhang25.notion.site/Kevin-s-Resume-Download-1fcf8411f885460cb918ef2b9873cf3b](https://kevinzhang25.notion.site/Kevin-s-Resume-Download-1fcf8411f885460cb918ef2b9873cf3b)
+- 📄 Learn more about my experiences [https://kevinzhang25.notion.site/Kevin-s-Resume-Download-1fcf8411f885460cb918ef2b9873cf3b](https://kevinzhang25.notion.site/Kevin-s-Resume-Download-1fcf8411f885460cb918ef2b9873cf3b)
 
 - ⚡ Fun fact **I love working out and playing piano!**
 
