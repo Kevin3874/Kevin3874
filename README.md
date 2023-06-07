@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kevin Zhang</h1>
 <h3 align="center">A passionate Computer Science and Applied Math Undergraduate at JHU.</h3>
 
-- 🔭 I’m currently working on **TechStack and Quest2earn**
+- 🔭 I’m currently working at **VoyceGlobal and FAAJA.org**
 
-- 🌱 I’m currently learning **React and Firebase**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://kevinzhang.vercel.app/](https://kevinzhang.vercel.app/)
 
