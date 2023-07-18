@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [https://kevinzhang.vercel.app/](https://kevinzhang.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://kevinzhang.dev/](https://kevinzhang.dev/)
 
 - 📫 How to reach me **kzhang77@jh.edu**
 
