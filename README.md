@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kzhang77@jh.edu**
 
-- ⚡ Fun fact **I love working out and music! I have been working out consistently since 2021, and have been playing piano since I was 4**
+- ⚡ Fun fact **I love working out and music! I've been working out consistently since 2021, and have been playing piano since I was 4**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,6 +49,4 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats-ipxxhg3w4-kevin3874.vercel.app/api/top-langs?username=kevin3874&show_icons=true&locale=en&layout=compact" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-ipxxhg3w4-kevin3874.vercel.app/api?username=kevin3874&show_icons=true&locale=en" /></p>
+<p><img align="left" src="https://github-readme-stats-tawny-five-80.vercel.app/api/top-langs?username=kevin3874&show_icons=true&locale=en&layout=compact" /></p>
