@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Zhang</h1>
-<h3 align="center">Junior Computer Science Major at Johns Hopkins University.</h3>
+<h3 align="center">BS/MSE at The Johns Hopkins University.</h3>
 
 - 🌱 I’m currently working at **Voyce**
 
