@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kevin Zhang</h1>
+<h1 align="center">Hi 👋, I'm Kevin </h1>
 <h3 align="center">BS/MSE at The Johns Hopkins University.</h3>
 <h3 align="center">Graduating in May 2025.</h3>
 
