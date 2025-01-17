@@ -2,13 +2,9 @@
 <h3 align="center">BS/MSE at The Johns Hopkins University.</h3>
 <h3 align="center">Graduating in May 2025.</h3>
 
-- 🌱 I’m currently working at **Voyce**
-
-- 👨‍💻 All of my projects are available at [https://kevinzhang.dev/](https://kevinzhang.dev/)
+- 🌱 I’m an incoming SWE @ Meta
 
 - 📫 How to reach me **kzhang77@jh.edu**
-
-- ⚡ Fun fact **I love working out and music! I've been working out consistently since 2021, and have been playing piano since I was 4**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
