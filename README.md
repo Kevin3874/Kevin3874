@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kevin </h1>
-<h3 align="center">BS/MSE at The Johns Hopkins University.</h3>
-<h3 align="center">Graduating in May 2025.</h3>
+<h3 align="center">BS/MSE from The Johns Hopkins University.</h3>
+<h3 align="center">Graduated in May 2025.</h3>
 
 - 🌱 I’m a SWE @ Meta
 
-- 📫 How to reach me **kzhang77@jh.edu**
+- 📈 iOS Engineer @ Instagram working on new user experiences
+
+- 📫 How to reach me **zzsshwkevin@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
