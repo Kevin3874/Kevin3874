@@ -6,7 +6,7 @@
 
 - 📈 iOS Engineer @ Instagram working on new user experiences
 
-- 📫 How to reach me **zzsshwkevin@gmail.com*
+- 📫 How to reach me **zzsshwkevin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
